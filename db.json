@@ -80,5 +80,45 @@
                 "avatar": "https://example.com/avatars/kim.jpg",
                 "dateOfBirth": "1987-07-25T00:00:00.000Z"
               }
-            ]
+ ],
+  
+"accounts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "username": "nguyenvanan",
+      "password": "An@123456",
+      "status": "active",
+      "lastLogin": "2025-04-02T08:15:30.000Z",
+      "createdAt": "2023-05-01T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "username": "tranthibinh",
+      "password": "Binh@123456",
+      "status": "active",
+      "lastLogin": "2025-04-06T14:22:10.000Z",
+      "createdAt": "2023-06-15T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "username": "levancuong",
+      "password": "Cuong@123456",
+      "status": "active",
+      "lastLogin": "2025-04-07T19:45:18.000Z",
+      "createdAt": "2023-07-22T00:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "username": "phamthidieu",
+      "password": "Dieu@123456",
+      "status": "unactive",
+      "lastLogin": "2025-04-05T10:30:42.000Z",
+      "createdAt": "2023-08-10T00:00:00.000Z"
+    }
+  ]
+  
 }
